@@ -9,4 +9,4 @@ Run blocal.exe. You can click New User and so on.
 
 ## Screenshot
 
-<img src="blogear.png" alt="Screenshot" width="1417" height="885">
+<img src="blogear.png" alt="Screenshot">
